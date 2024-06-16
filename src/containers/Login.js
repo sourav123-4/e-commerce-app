@@ -56,6 +56,7 @@ const LoginScreen = ({navigation}) => {
           value={email}
           keyboardType="email-address"
           autoCapitalize="none"
+          placeholderTextColor={'black'}
         />
         <TextInput
           style={styles.input}
@@ -63,6 +64,7 @@ const LoginScreen = ({navigation}) => {
           onChangeText={setPassword}
           value={password}
           secureTextEntry
+          placeholderTextColor={'black'}
         />
         <TouchableOpacity style={styles.button} onPress={handleLogin}>
           <Text style={styles.buttonText}>{t('login.Login')}</Text>

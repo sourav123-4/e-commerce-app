@@ -129,6 +129,7 @@ const styles = StyleSheet.create({
     fontSize: 16,
     fontWeight: 'bold',
     marginBottom: 5,
+    color: 'black',
   },
   itemPrice: {
     fontSize: 14,
@@ -148,6 +149,7 @@ const styles = StyleSheet.create({
   itemCount: {
     fontSize: 16,
     marginHorizontal: 10,
+    color: 'black',
   },
   totalContainer: {
     marginTop: 20,
@@ -168,9 +170,11 @@ const styles = StyleSheet.create({
   totalLabel: {
     fontSize: 16,
     fontWeight: 'bold',
+    color: 'black',
   },
   totalValue: {
     fontSize: 16,
+    color: 'black',
   },
   checkoutButton: {
     backgroundColor: '#ff6347',
