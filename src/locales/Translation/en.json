@@ -1,0 +1,56 @@
+{
+  "hello": "Hello",
+  "settings": {
+    "language": "Language",
+    "languageChanged": "Language Changed"
+  },
+  "languages": {
+    "english": "English",
+    "hindi": "Hindi"
+  },
+  "login": {
+    "email": "Email",
+    "Password": "Password",
+    "Login": "Login",
+    "Please enter a valid email address": "Please enter a valid email address",
+    "Password validation failed": "Password validation failed",
+    "Password must be at least 8 characters long and contain uppercase, lowercase, numeric digits, and special characters": "Password must be at least 8 characters long and contain uppercase, lowercase, numeric digits, and special characters",
+    "Invalid email or password": "Invalid email or password"
+  },
+  "cart": {
+    "Your cart is empty": "Your cart is empty",
+    "Total Items": "Total Items",
+    "Total Price": "Total Price",
+    "Proceed to Checkout": "Proceed to Checkout"
+  },
+  "account": {
+    "Phone": "Phone",
+    "Address": "Address",
+    "Logout": "Logout"
+  },
+  "order": {
+    "No items in your order": "No items in your order",
+    "Quantity": "Quantity",
+    "Price": "Price"
+  },
+  "product": {
+    "Brand": "Brand",
+    "Price": "Price",
+    "Stock": "Stock",
+    "Category": "Category",
+    "Tags": "Tags",
+    "Warranty": "Warranty",
+    "Shipping": "Shipping",
+    "Add to Cart": "Add to Cart"
+  },
+  "navigationsHeader": {
+    "ProductDetails": "Product Details",
+    "YourOrders": "Your Orders",
+    "settings": "Settings",
+    "ShoppingCart": "Shopping Cart",
+    "Orders": "Orders",
+    "Home": "Home",
+    "Account": "Account",
+    "MyApp": "My App"
+  }
+}

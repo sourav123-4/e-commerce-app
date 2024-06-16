@@ -1,0 +1,56 @@
+{
+  "hello": "नमस्ते",
+  "settings": {
+    "language": "भाषा",
+    "languageChanged": "भाषा बदल गई"
+  },
+  "languages": {
+    "english": "अंग्रेज़ी",
+    "hindi": "हिंदी"
+  },
+  "login": {
+    "email": "ईमेल",
+    "Password": "पासवर्ड",
+    "Login": "लॉग इन करें",
+    "Please enter a valid email address": "कृपया एक मान्य ईमेल पता प्रविष्ट करें",
+    "Password validation failed": "पासवर्ड सत्यापन विफल रहा",
+    "Password must be at least 8 characters long and contain uppercase, lowercase, numeric digits, and special characters": "पासवर्ड कम से कम 8 अक्षर लंबा होना चाहिए और इसमें अपरकेस, लोअरकेस, संख्यात्मक अंक और विशेष अक्षर शामिल होने चाहिए",
+    "Invalid email or password": "अमान्य ईमेल या पासवर्ड"
+  },
+  "cart": {
+    "Your cart is empty": "आपकी गाड़ी खाली है",
+    "Total Items": "कुल सामान",
+    "Total Price": "कुल कीमत",
+    "Proceed to Checkout": "चेक आउट करने के लिए आगे बढ़ें"
+  },
+  "account": {
+    "Phone": "फ़ोन",
+    "Address": "पता",
+    "Logout": "लॉग आउट"
+  },
+  "order": {
+    "No items in your order": "आपके ऑर्डर में कोई आइटम नहीं",
+    "Quantity": "मात्रा",
+    "Price": "कीमत"
+  },
+  "product": {
+    "Brand": "ब्रांड",
+    "Price": "कीमत",
+    "Stock": "भंडार",
+    "Category": "वर्ग",
+    "Tags": "टैग",
+    "Warranty": "गारंटी",
+    "Shipping": "शिपिंग",
+    "Add to Cart": "कार्ट में जोड़ें"
+  },
+  "navigationsHeader": {
+    "ProductDetails": "उत्पाद विवरण",
+    "YourOrders": "तुम्हारे ऑर्डर",
+    "settings": "समायोजन",
+    "ShoppingCart": "शॉपिंग कार्ट",
+    "Orders": "आदेश",
+    "Home": "घर",
+    "Account": "खाता",
+    "MyApp": "मेरा ऐप"
+  }
+}
